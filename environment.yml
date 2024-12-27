@@ -35,6 +35,7 @@ dependencies:
       - clarabel==0.9.0
       - comm==0.2.2
       - contourpy==1.3.0
+      - cvxopt==1.3.2
       - cvxpy==1.6.0
       - cycler==0.12.1
       - debugpy==1.8.11
